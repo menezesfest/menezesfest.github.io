@@ -4,7 +4,7 @@
 
 layout: home
 ---
-MenezesFest brings together researchers, colleagues, students, and friends to celebrate the career and impact of **Alfred Menezes** in cryptography.  
+MenezesFest brings together researchers, colleagues, students, and friends to celebrate the [career and impact](https://news.profoundimpact.com/2024/09/05/alfred-menezes/) of [**Alfred Menezes**](https://uwaterloo.ca/scholar/ajmeneze) in cryptography.  
 
 The workshop will feature talks on:
 - Elliptic Curve Cryptography
