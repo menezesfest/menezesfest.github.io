@@ -27,18 +27,21 @@ The workshop will feature talks on:
 ---
 
 ## 🔈 Confirmed Speakers
-- Alfred Menezes (University of Waterloo)  
-- Neal Koblitz (University of Washington)  
-- Sam Jacques (University of Waterloo)  
-- Julio López (University of Campinas)  
-- Daniel Panario (Carleton University)  
+- Alfred Menezes (University of Waterloo, Canada)  
+- Neal Koblitz (University of Washington, USA)  
+- Ann Hibner Koblitz (Arizona State University, USA)  
+- Sam Jacques (University of Waterloo, Canada)  
+- Julio López (University of Campinas, Brazil)  
+- Daniel Panario (Carleton University, Canada)  
+- Gora Adj (Technology Innovation Instityte, UAE)  
+- Gabriela Araujo-Pardo (National Autonomous University of Mexico, Mexico)  
 - [Awaiting confirmation]
 
 ---
 
 ## 🎩 Organizers
-- Francisco Rodríguez-Henríquez (Technology Innovation Institute)
-- Diego F. Aranha (Aarhus University)  
+- Francisco Rodríguez-Henríquez (Technology Innovation Institute, UAE)
+- Diego F. Aranha (Aarhus University, Denmark)  
 
 ---
 
