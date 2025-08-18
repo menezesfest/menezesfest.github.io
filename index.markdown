@@ -26,7 +26,7 @@ The workshop will feature talks on:
 
 ---
 
-## 👩‍🏫 Confirmed Speakers
+## 🔈 Confirmed Speakers
 - Alfred Menezes (University of Waterloo)  
 - Neal Koblitz (University of Washington)  
 - Sam Jacques (University of Waterloo)  
@@ -36,7 +36,7 @@ The workshop will feature talks on:
 
 ---
 
-## 🙏 Organizers
+## 🎩 Organizers
 - Francisco Rodríguez-Henríquez (Technology Innovation Institute)
 - Diego F. Aranha (Aarhus University)  
 
