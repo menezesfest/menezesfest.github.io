@@ -16,8 +16,8 @@ The workshop will feature talks on:
 ---
 
 ## 📅 Date & Venue
-- **Date:** October 2nd, 2025, between 2h30pm and 6pm
-- **Location:** The workshop will be held within [Latincrypt 2025](https://ciencias.medellin.unal.edu.co/eventos/latincrypt/)
+- **Date:** October 2nd, 2025, between 2h30pm and 6pm.
+- **Location:** The workshop will be held within [Latincrypt 2025](https://ciencias.medellin.unal.edu.co/eventos/latincrypt/).
 - **Format:** In-person with 30-minute invited talks.
 
 ---
