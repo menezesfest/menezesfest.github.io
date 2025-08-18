@@ -46,6 +46,6 @@ The workshop will feature talks on:
 ---
 
 ## 📧 Contact
-For questions, please email: **festmenezes@gmail.com**
+For questions, please email: **contact@menezesfest.info**
 
 
