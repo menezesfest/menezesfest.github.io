@@ -11,6 +11,7 @@ The workshop will feature talks on:
 - Pairings and advanced protocols
 - Provable security
 - Cryptography in practice
+- Quantum cryptanalysis
 - Personal stories and tributes
 
 ---
