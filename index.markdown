@@ -31,7 +31,7 @@ The workshop will feature talks on:
 - Julio López (University of Campinas, Brazil)  
 - Daniel Panario (Carleton University, Canada)  
 - Gora Adj (Technology Innovation Instityte, UAE)  
-- Gabriela Araujo-Pardo (National Autonomous University of Mexico, Mexico)  
+- Gabriela Araujo-Pardo (National Autonomous University of Mexico, Mexico)
 
 ---
 
@@ -39,17 +39,17 @@ The workshop will feature talks on:
 
 |    Time   |                                                          Title                                                          |            Speakers           |
 |:---------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|
-| 2:05-2:10 |                                                         Foreword                                                        |      Diego & Francisco      |
-| 2:10-2:50 |                                            A Tribute to the Kovalevskaia Fund                                           | Gabriela Araujo & Ann Koblitz |
-| 2:50-3:25 |                                                           TBD                                                           |          Neal Koblitz         |
-| 3:25-3:50 |                                              ECC: Experiences and Insights                                              |          Julio Lopez          |
-| 3:50-4:05 |                                                                                                                         |          Coffee break         |
-| 4:05-4:30 |                                          Smooth polynomials and index calculus                                          |         Daniel Panario        |
-| 4:30-4:55 |                                          Another look at quantum cryptanalysis                                          |           Sam Jaques          |
-| 4:55-5:20 |                                           State of the art on MPC in the head                                           |            Gora Adj           |
-| 5:20-5:35 |                                               Pairing delegation protocols                                              |          Diego Aranha         |
-| 5:35-5:50 | Computing discrete logarithms  over a 4841-bit ternary extension field  in less than two hundred core-years of solitude | Francisco Rodríguez-Henríquez |
-| 5:50-6:00 |                                                     Closing remarks                                                     |         Alfred Menezes        |
+| 2:05 - 2:10 |                                                         Foreword                                                        |      Diego & Francisco      |
+| 2:10 - 2:50 |                                            A Tribute to the Kovalevskaia Fund                                           | Gabriela Araujo & Ann Koblitz |
+| 2:50 - 3:25 |                                                           TBD                                                           |          Neal Koblitz         |
+| 3:25 - 3:50 |                                              ECC: Experiences and Insights                                              |          Julio Lopez          |
+| 3:50 - 4:05 |                                                                                                                         |          Coffee break         |
+| 4:05 - 4:30 |                                          Smooth polynomials and index calculus                                          |         Daniel Panario        |
+| 4:30 - 4:55 |                                          Another look at quantum cryptanalysis                                          |           Sam Jaques          |
+| 4:55 - 5:20 |                                           State of the art on MPC in the head                                           |            Gora Adj           |
+| 5:20 - 5:35 |                                               Pairing delegation protocols                                              |          Diego Aranha         |
+| 5:35 - 5:50 | Computing discrete logarithms  over a 4841-bit ternary extension field  in less than two hundred core-years of solitude | Francisco Rodríguez-Henríquez |
+| 5:50 - 6:00 |                                                     Closing remarks                                                     |         Alfred Menezes        |
 
 ---
 
