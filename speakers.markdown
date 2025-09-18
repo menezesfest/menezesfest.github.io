@@ -12,7 +12,7 @@ Discrete logarithm computations and their use in cryptography are one of the man
 
 In the second round of the NIST post-quantum process, the scheme SIKE reduced its key sizes. Alfred Menezes was a critical factor in this, publishing a revised estimate of classical attack costs and encouraging myself and John Schanck to work on quantum attack costs. But doesn’t this contradict Schneier's law that “attacks only get better”? In this talk I’ll explain how quantum attack costs were overestimated, but also talk about *why*, and rant about the philosophy of science and what Alfred taught me about the realities of the scientific process and its institutions.
 
-* **Gabriela Araujo & Ann Koblitz:**:
+* **Gabriela Araujo & Ann Koblitz**: _A Tribute to the Kovalevskaia Fund_
 
 * **Neal Koblitz**:
 
