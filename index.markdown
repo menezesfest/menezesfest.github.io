@@ -23,7 +23,7 @@ The workshop will feature talks on:
 
 ---
 
-## 🔈 Confirmed Speakers
+## 🔈 [Confirmed Speakers}(/speakers/)
 - Alfred Menezes (University of Waterloo, Canada)  
 - Neal Koblitz (University of Washington, USA)  
 - Ann Hibner Koblitz (Arizona State University, USA)  
@@ -35,7 +35,7 @@ The workshop will feature talks on:
 
 ---
 
-## 🗓️ Program (WIP)
+## 🗓️ [Program](/speakers/) (WIP)
 
 |     Time    |                                                          Title                                                          |            Speakers           |
 |:-----------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|
