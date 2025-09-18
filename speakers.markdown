@@ -24,5 +24,7 @@ The MPC-in-the-Head paradigm transforms secure multiparty computation protocols 
 
 **Diego F. Aranha**: 
 
-**Francisco Rodríguez-Henríquez**:
+**Francisco Rodríguez-Henríquez**: _Computing discrete logarithms over a 4841-bit ternary extension field in less than two hundred core-years of solitude_
+
+In February 2013 Joux introduced an algorithm for computing discrete logarithms in finite fields of small characteristic, a breakthrough that sparked a global race to push discrete-log computations to ever-larger records. That competition culminated in the remarkable work of Barbulescu, Gaudry, Joux, and Thomé, who developed an algorithm with quasi-polynomial running time in the field size under certain conditions. In this talk I will summarize the project led by Alfred Menezes, together with a team of Mexican professors and students, to compute discrete logarithms in a finite field of characteristic three — a world-record computation completed on 16 July 2016. The effort required roughly 200 core-years of solitude. I will describe our approach, the computational challenges we faced, and the main results and lessons learned.
 
