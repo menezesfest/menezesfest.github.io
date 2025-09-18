@@ -1,3 +1,9 @@
+---
+layout: page
+title: Speakers
+permalink: /speakers/
+---
+
 **Daniel Panario**: _Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
 
 Abstract:
