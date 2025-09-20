@@ -6,9 +6,11 @@ $content-width: 80%;
 
 @import "minima";
 
-.side-image {
-  float: right;
-  margin: 0 0 1rem 1rem;
-  max-width: 220px;
-  border-radius: 8px;
+@media (max-width: 600px) {
+  .side-image {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+    width: 80%;  /* bigger when stacked */
+  }
 }
