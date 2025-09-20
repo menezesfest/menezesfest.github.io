@@ -38,11 +38,16 @@ The MPC-in-the-Head paradigm transforms secure multiparty computation protocols 
 
 ---
 
-<img src="https://pure.au.dk/portal/files-asset/223218861/Diego_AranhaAU_CS_web.jpg?w=350&f=webp" alt="Diego F. Aranha" class="side-image">
+<img src="https://pure.au.dk/portal/files-asset/223218861/Diego_AranhaAU_CS_web.jpg?w=350&f=webp" alt="Diego F. Aranha" class="speaker-img">
 
 **Diego F. Aranha**: _A brief story of cryptographic pairings_
 
 I will talk about how Alfred Menezes’ work was pivotal in introducing cryptographic pairings into the field, highlight our joint contributions in this area, and touch on some recent developments.
+
+<div class="speaker-block">
+  <img src="https://pure.au.dk/portal/files-asset/223218861/Diego_AranhaAU_CS_web.jpg?w=200&f=webp" alt="Diego F. Aranha">
+  <p>Diego F. Aranha — Aarhus University<br>
+</div>
 
 ---
 
