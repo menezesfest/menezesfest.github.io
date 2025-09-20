@@ -5,3 +5,10 @@
 $content-width: 80%;
 
 @import "minima";
+
+.side-image {
+  float: right;
+  margin: 0 0 1rem 1rem;
+  max-width: 220px;
+  border-radius: 8px;
+}

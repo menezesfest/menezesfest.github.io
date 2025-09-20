@@ -4,6 +4,9 @@
 
 layout: home
 ---
+
+<img src="/assets/images/menezes.jpg" alt="Alfred Menezes" class="side-image">
+
 MenezesFest brings together researchers, colleagues, students, and friends to celebrate [**Alfred Menezes'**](https://uwaterloo.ca/scholar/ajmeneze) [career and impact](https://news.profoundimpact.com/2024/09/05/alfred-menezes/) in cryptography.  
 
 The workshop will feature talks on:
