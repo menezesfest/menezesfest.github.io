@@ -17,19 +17,10 @@ $content-width: 60%;
   float: right;             /* makes the image sit on the right side */
   margin: 0 0 1rem 1rem;     /* bottom and left margin so text has space */
   width: 30%;                /* image takes ~30% of container width */
-  max-width: 200px;          /* caps it so it doesn’t get huge on wide screens */
+  max-width: 150px;          /* caps it so it doesn’t get huge on wide screens */
   height: auto;              /* keeps aspect ratio */
 }
 
-.speaker-block {
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc;
-  padding: 1rem 0;
-  margin: 1.5rem 0;
-  text-align: left;   /* centers image and text */
-}
-.speaker-block img {
-  max-width: 200px;
-  border-radius: 8px;
-  float: right;
+.spacer {
+  height: 3rem;   /* adjust the vertical space as needed */
 }
