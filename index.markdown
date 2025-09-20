@@ -27,32 +27,32 @@ The workshop will feature talks on:
 ---
 
 ## 🔈 [Confirmed Speakers](/speakers/)
-- Alfred Menezes (University of Waterloo, Canada)  
-- Neal Koblitz (University of Washington, USA)  
-- Ann Hibner Koblitz (Arizona State University, USA)  
+- Alfred Menezes (University of Waterloo, Canada)
+- Gabriela Araujo-Pardo (National Autonomous University of Mexico, Mexico)
+- Ann Hibner Koblitz (Arizona State University, USA) 
+- Neal Koblitz (University of Washington, USA)
+- Daniel Panario (Carleton University, Canada)  
 - Sam Jacques (University of Waterloo, Canada)  
 - Julio López (University of Campinas, Brazil)  
-- Daniel Panario (Carleton University, Canada)  
 - Gora Adj (Technology Innovation Institute, UAE)  
-- Gabriela Araujo-Pardo (National Autonomous University of Mexico, Mexico)
 
 ---
 
 ## 🗓️ [Program](/speakers/) (WIP)
 
-|     Time    |                                                          Title                                                          |            Speakers           |
-|:-----------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|
-| 2:05 - 2:10 |                                                         Foreword                                                        |      Diego & Francisco      |
-| 2:10 - 2:50 |                                            A Tribute to the Kovalevskaia Fund                                           | Gabriela Araujo & Ann Koblitz |
-| 2:50 - 3:25 |                                                           TBD                                                           |          Neal Koblitz         |
-| 3:25 - 3:50 |                                              ECC: Experiences and Insights                                              |          Julio López          |
-| 3:50 - 4:05 |                                                       Coffee break                                                      |             --                |
-| 4:05 - 4:30 |      Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields      |         Daniel Panario        |
-| 4:30 - 4:55 |                                          Another look at quantum cryptanalysis                                          |           Sam Jaques          |
-| 4:55 - 5:20 |                                The Journey of MPC-in-the-Head in Post-Quantum Cryptography                              |            Gora Adj           |
-| 5:20 - 5:35 |                                           A brief story of cryptographic pairings                                       |          Diego Aranha         |
-| 5:35 - 5:50 |  Computing discrete logarithms over a 4841-bit ternary extension field in less than two hundred core-years of solitude  | Francisco Rodríguez-Henríquez |
-| 5:50 - 6:00 |                                                     Closing remarks                                                     |         Alfred Menezes        |
+|     Time    |                                                          Title                                                                          |            Speakers           |
+|:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------:|
+| 2:05 - 2:10 |                                                         Foreword                                                                        |        Diego & Francisco      |
+| 2:10 - 2:50 |                [A Tribute to the Kovalevskaia Fund](/speakers#araujo-koblitz)                                                           | Gabriela Araujo & Ann Koblitz |
+| 2:50 - 3:25 |                [My Collaboration with Alfred Menezes](/speakers#koblitz)                                                                |          Neal Koblitz         |
+| 3:25 - 3:50 |                                              [ECC: Experiences and Insights](/speakers#lopez)                                           |          Julio López          |
+| 3:50 - 4:05 |                                                       Coffee break                                                                      |             --                |
+| 4:05 - 4:30 |      [Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields](/speakers#panario) |         Daniel Panario        |
+| 4:30 - 4:55 |                                          [Another look at quantum cryptanalysis](/speakers#jaques)                                      |           Sam Jaques          |
+| 4:55 - 5:20 |                                [The Journey of MPC-in-the-Head in Post-Quantum Cryptography](/speakers#adj)                             |            Gora Adj           |
+| 5:20 - 5:35 |                                           [A brief story of cryptographic pairings](/speakers#aranha)                                   |          Diego Aranha         |
+| 5:35 - 5:50 |  [Computing discrete logarithms over a 4841-bit ternary extension field in less than two hundred core-years of solitude](/speakers#rh)  | Francisco Rodríguez-Henríquez |
+| 5:50 - 6:00 |                                                     Closing remarks                                                                     |         Alfred Menezes        |
 
 ---
 
