@@ -45,6 +45,7 @@ The MPC-in-the-Head paradigm transforms secure multiparty computation protocols 
 I will talk about how Alfred Menezes’ work was pivotal in introducing cryptographic pairings into the field, highlight our joint contributions in this area, and touch on some recent developments.
 
 <p class="spacer"></p>
+<p class="spacer"></p>
 
 ---
 
