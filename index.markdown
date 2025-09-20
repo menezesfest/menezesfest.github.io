@@ -33,7 +33,7 @@ The workshop will feature talks on:
 - Sam Jacques (University of Waterloo, Canada)  
 - Julio López (University of Campinas, Brazil)  
 - Daniel Panario (Carleton University, Canada)  
-- Gora Adj (Technology Innovation Instityte, UAE)  
+- Gora Adj (Technology Innovation Institute, UAE)  
 - Gabriela Araujo-Pardo (National Autonomous University of Mexico, Mexico)
 
 ---

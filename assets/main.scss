@@ -26,9 +26,10 @@ $content-width: 60%;
   border-bottom: 1px solid #ccc;
   padding: 1rem 0;
   margin: 1.5rem 0;
-  text-align: center;   /* centers image and text */
+  text-align: left;   /* centers image and text */
 }
 .speaker-block img {
   max-width: 200px;
   border-radius: 8px;
+  float: right;
 }
