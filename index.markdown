@@ -50,7 +50,7 @@ The workshop will feature talks on:
 | 4:05 - 4:30 |      Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields      |         Daniel Panario        |
 | 4:30 - 4:55 |                                          Another look at quantum cryptanalysis                                          |           Sam Jaques          |
 | 4:55 - 5:20 |                                The Journey of MPC-in-the-Head in Post-Quantum Cryptography                              |            Gora Adj           |
-| 5:20 - 5:35 |                                               Pairing delegation protocols                                              |          Diego Aranha         |
+| 5:20 - 5:35 |                                           A brief story of cryptographic pairings                                       |          Diego Aranha         |
 | 5:35 - 5:50 |  Computing discrete logarithms over a 4841-bit ternary extension field in less than two hundred core-years of solitude  | Francisco Rodríguez-Henríquez |
 | 5:50 - 6:00 |                                                     Closing remarks                                                     |         Alfred Menezes        |
 
