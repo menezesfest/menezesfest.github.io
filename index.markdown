@@ -51,7 +51,7 @@ The workshop will feature talks on:
 | 4:05 - 4:30 |      [Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields](/speakers#panario) |         Daniel Panario        |
 | 4:30 - 4:55 |                                          [Another look at quantum cryptanalysis](/speakers#jaques)                                      |           Sam Jaques          |
 | 4:55 - 5:20 |                                [The Journey of MPC-in-the-Head in Post-Quantum Cryptography](/speakers#adj)                             |            Gora Adj           |
-| 5:20 - 5:30 |                                                  [Curve-based cryptography][/speakers#theriault]                                        |        Nicholas Thériault     |
+| 5:20 - 5:30 |                                                  [Curve-based cryptography](/speakers#theriault)                                        |        Nicholas Thériault     |
 | 5:30 - 5:40 |                                           [A brief story of cryptographic pairings](/speakers#aranha)                                   |          Diego Aranha         |
 | 5:40 - 5:50 |  [Computing discrete logarithms over a 4841-bit ternary extension field in less than two hundred core-years of solitude](/speakers#rh)  | Francisco Rodríguez-Henríquez |
 | 5:50 - 6:00 |                                                     Closing remarks                                                                     |         Alfred Menezes        |
