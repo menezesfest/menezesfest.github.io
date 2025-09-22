@@ -80,6 +80,18 @@ The MPC-in-the-Head paradigm transforms secure multiparty computation protocols 
 
 ---
 
+<a name="theriault"></a>
+
+<img src="https://www.magister.dmcc.usach.cl/wp-content/uploads/2021/12/8425_Nicolas_Theriault.jpg" alt="Nicolas Thériault" class="speaker-img">
+
+**Nicolas Thériault** (Universidad de Santiago de Chile, Chile):
+
+_Curve-based cryptography_
+
+Alfred Menezes' interest in curve-based cryptography and his support of research in this area can hardly be overstated. I will give a brief description of how being a postdoc in Waterloo has shaped  my research and (ongoing) collaborations, and is still leading to new results in this area.
+
+---
+
 <a name="aranha"></a>
 
 <img src="https://pure.au.dk/portal/files-asset/223218861/Diego_AranhaAU_CS_web.jpg?w=150&f=webp" alt="Diego F. Aranha" class="speaker-img">
