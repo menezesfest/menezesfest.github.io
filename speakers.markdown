@@ -42,6 +42,7 @@ _ECC: Experiences in ECC and Binary Fields_
 In this talk I will describe some works developed at the Centre of Cryptographic Research (CACR) at the University of Waterloo (now  Cybersecurity and Privacy Institute (CPI)) supervised by professor Alfred Menezes when I visited him in 1998-1999. The projects focused on the development of software implementations of Elliptic Curves. In the second part of the talk, I will present a software implementation of arithmetic operations in GF(2⁸) on the Cortex-M85 processor, with applications to AES and other cryptographic algorithms.
 
 <p class="spacer"></p>
+<p class="spacer"></p>
 
 ---
 
