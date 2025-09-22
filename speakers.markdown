@@ -41,6 +41,8 @@ _ECC: Experiences in ECC and Binary Fields_
 
 In this talk I will describe some works developed at the Centre of Cryptographic Research (CACR) at the University of Waterloo (now  Cybersecurity and Privacy Institute (CPI)) supervised by professor Alfred Menezes when I visited him in 1998-1999. The projects focused on the development of software implementations of Elliptic Curves. In the second part of the talk, I will present a software implementation of arithmetic operations in GF(2⁸) on the Cortex-M85 processor, with applications to AES and other cryptographic algorithms.
 
+<p class="spacer"></p>
+
 ---
 
 <a name="panario"></a>
@@ -50,6 +52,8 @@ In this talk I will describe some works developed at the Centre of Cryptographic
 * **Daniel Panario** (Carleton University, Canada): _Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
 
 Discrete logarithm computations and their use in cryptography are one of the many areas of research of Alfred Menezes. In this talk, we review a methodology that allows us to prove diverse results about the distribution of the irreducible factors of polynomials over finite fields. This technique was originally used by Odlyzko to prove that the index calculus method to compute discrete logarithms in finite fields has subexponential cost. We review Odlyzko's results and comment on other uses of this methodology in discrete logarithm computations.
+
+<p class="spacer"></p>
 
 ---
 
