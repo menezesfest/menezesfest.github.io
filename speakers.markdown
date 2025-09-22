@@ -82,6 +82,8 @@ _The Journey of MPC-in-the-Head in Post-Quantum Cryptography_
 
 The MPC-in-the-Head paradigm transforms secure multiparty computation protocols into efficient zero-knowledge proofs, and from there to digital signatures. This approach has become a cornerstone in post-quantum signature schemes for their competitive efficiency and the simplicity of their security proofs. In this talk, we will survey the MPC-in-the-Head signatures that entered the onramp NIST Post-Quantum Cryptography standardization process, outlining their core design principles and making comparisons between them and against the other NIST candidates.
 
+<p class="spacer"></p>
+
 ---
 
 <a name="theriault"></a>
@@ -93,6 +95,8 @@ The MPC-in-the-Head paradigm transforms secure multiparty computation protocols 
 _Curve-based cryptography_
 
 Alfred Menezes' interest in curve-based cryptography and his support of research in this area can hardly be overstated. I will give a brief description of how being a postdoc in Waterloo has shaped  my research and (ongoing) collaborations, and is still leading to new results in this area.
+
+<p class="spacer"></p>
 
 ---
 
