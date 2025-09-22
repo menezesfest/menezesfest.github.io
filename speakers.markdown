@@ -17,6 +17,8 @@ The Kovalevskaia Fund is a small private foundation dedicated to encouraging wom
 
 We will then talk about the outcomes of this award, highlight some of the women who have received it, and present a video we made in 2022 to mark the 80th anniversary of the Mexican Mathematical Society, dedicated to this topic.
 
+<p class="spacer"></p>
+
 ---
 
 <a name="koblitz"></a>
