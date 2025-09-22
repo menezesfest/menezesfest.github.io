@@ -62,6 +62,8 @@ Discrete logarithm computations and their use in cryptography are one of the man
 
 <a name="jaques"></a>
 
+<img src="https://sam-jaques.appspot.com/static/img/intro-pic.jpg" alt="Sam Jaques" class="speaker-img">
+
 * **Sam Jaques** (University of Waterloo, Canada):
 
 _Another look at quantum cryptanalysis_
@@ -71,6 +73,8 @@ In the second round of the NIST post-quantum process, the scheme SIKE reduced it
 ---
 
 <a name="adj"></a>
+
+<img src="https://cacr.uwaterloo.ca/people/images/adj.jpg" alt="Gora Adj" class="speaker-img">
 
 * **Gora Adj** (Technology Innovation Institute, UAE):
 
