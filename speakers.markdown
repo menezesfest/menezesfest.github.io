@@ -70,6 +70,8 @@ _Another look at quantum cryptanalysis_
 
 In the second round of the NIST post-quantum process, the scheme SIKE reduced its key sizes. Alfred Menezes was a critical factor in this, publishing a revised estimate of classical attack costs and encouraging myself and John Schanck to work on quantum attack costs. But doesn’t this contradict Schneier's law that “attacks only get better”? In this talk I’ll explain how quantum attack costs were overestimated, but also talk about *why*, and rant about the philosophy of science and what Alfred taught me about the realities of the scientific process and its institutions.
 
+<p class="spacer"></p>
+
 ---
 
 <a name="adj"></a>
