@@ -6,15 +6,22 @@ permalink: /speakers/
 
 <a name="araujo-koblitz"></a>
 
+<img src="/assets/images/araujo.jpg" alt="Gabriela Araujo" class="speaker-img">
+<img src="/assets/images/akoblitz.jpg" alt="Ann Koblitz" class="speaker-img">
+
 * **Gabriela Araujo** (National Autonomous University of Mexico, Mexico) & **Ann Koblitz** (Arizona State University, USA):
 
 _A Tribute to the Kovalevskaia Fund_
 
 The Kovalevskaia Fund is a small private foundation dedicated to encouraging women and girls in STEM fields in the Third World.  This talk will give a brief overview of the forty years of activities of the Fund.
 
+We will then talk about the outcomes of this award, highlight some of the women who have received it, and present a video we made in 2022 to mark the 80th anniversary of the Mexican Mathematical Society, dedicated to this topic.
+
 ---
 
 <a name="koblitz"></a>
+
+<img src="/assets/images/nkoblitz.jpg" alt="Neal Koblitz" class="speaker-img">
 
 * **Neal Koblitz** (University of Washington, USA):
 
@@ -28,11 +35,17 @@ I will talk about the history of our collaboration, focusing on the 15 years of 
 
 * **Julio López** (University of Campinas, Brazil):
 
-_ECC: Experiences and Insights_
+<img src="/assets/images/lopez.jpg" alt="Julio López" class="speaker-img">
+
+_ECC: Experiences in ECC and Binary Fields_
+
+In this talk I will describe some works developed at the Centre of Cryptographic Research (CACR) at the University of Waterloo (now  Cybersecurity and Privacy Institute (CPI)) supervised by professor Alfred Menezes when I visited him in 1998-1999. The projects focused on the development of software implementations of Elliptic Curves. In the second part of the talk, I will present a software implementation of arithmetic operations in GF(2⁸) on the Cortex-M85 processor, with applications to AES and other cryptographic algorithms.
 
 ---
 
 <a name="panario"></a>
+
+<img src="/assets/images/panario.jpg" alt="Daniel Panario" class="speaker-img">
 
 * **Daniel Panario** (Carleton University, Canada): _Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
 
@@ -76,6 +89,8 @@ I will talk about how Alfred Menezes’ work was pivotal in introducing cryptogr
 ---
 
 <a name="rh"></a>
+
+<img src="/assets/images/frh.jpg" alt="Francisco RH" class="speaker-img">
 
 **Francisco Rodríguez-Henríquez** (Technology Innovation Institute, UAE):
 
