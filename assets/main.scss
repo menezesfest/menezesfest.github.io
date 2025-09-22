@@ -19,6 +19,8 @@ $content-width: 60%;
   width: 30%;                /* image takes ~30% of container width */
   max-width: 150px;          /* caps it so it doesn’t get huge on wide screens */
   height: auto;              /* keeps aspect ratio */
+  max-height: 200px;       /* height limit */
+  object-fit: contain;      /* keeps aspect ratio inside box */
 }
 
 .spacer {
