@@ -9,7 +9,7 @@ permalink: /speakers/
 <img src="/assets/images/araujo.jpg" alt="Gabriela Araujo" class="speaker-img">
 <img src="/assets/images/akoblitz.jpg" alt="Ann Koblitz" class="speaker-img">
 
-* **Gabriela Araujo** (National Autonomous University of Mexico, Mexico) & **Ann Koblitz** (Arizona State University, USA):
+**Gabriela Araujo** (National Autonomous University of Mexico, Mexico) & **Ann Koblitz** (Arizona State University, USA):
 
 _A Tribute to the Kovalevskaia Fund_
 
@@ -25,17 +25,19 @@ We will then talk about the outcomes of this award, highlight some of the women 
 
 <img src="/assets/images/nkoblitz.jpg" alt="Neal Koblitz" class="speaker-img">
 
-* **Neal Koblitz** (University of Washington, USA):
+**Neal Koblitz** (University of Washington, USA):
 
 _My Collaboration with Alfred Menezes_
 
 I will talk about the history of our collaboration, focusing on the 15 years of "Another Look at..." papers that we wrote describing mathematical or logical flaws that we found in arguments for "provable security" claims.
 
+<p class="spacer"></p>
+
 ---
 
 <a name="lopez"></a>
 
-* **Julio López** (University of Campinas, Brazil):
+**Julio López** (University of Campinas, Brazil):
 
 <img src="/assets/images/lopez.jpg" alt="Julio López" class="speaker-img">
 
@@ -52,7 +54,7 @@ In this talk I will describe some works developed at the Centre of Cryptographic
 
 <img src="/assets/images/panario.jpg" alt="Daniel Panario" class="speaker-img">
 
-* **Daniel Panario** (Carleton University, Canada): _Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
+**Daniel Panario** (Carleton University, Canada): _Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
 
 Discrete logarithm computations and their use in cryptography are one of the many areas of research of Alfred Menezes. In this talk, we review a methodology that allows us to prove diverse results about the distribution of the irreducible factors of polynomials over finite fields. This technique was originally used by Odlyzko to prove that the index calculus method to compute discrete logarithms in finite fields has subexponential cost. We review Odlyzko's results and comment on other uses of this methodology in discrete logarithm computations.
 
@@ -64,7 +66,7 @@ Discrete logarithm computations and their use in cryptography are one of the man
 
 <img src="https://sam-jaques.appspot.com/static/img/intro-pic.jpg" alt="Sam Jaques" class="speaker-img">
 
-* **Sam Jaques** (University of Waterloo, Canada):
+**Sam Jaques** (University of Waterloo, Canada):
 
 _Another look at quantum cryptanalysis_
 
@@ -78,7 +80,7 @@ In the second round of the NIST post-quantum process, the scheme SIKE reduced it
 
 <img src="https://cacr.uwaterloo.ca/people/images/adj.jpg" alt="Gora Adj" class="speaker-img">
 
-* **Gora Adj** (Technology Innovation Institute, UAE):
+**Gora Adj** (Technology Innovation Institute, UAE):
 
 _The Journey of MPC-in-the-Head in Post-Quantum Cryptography_
 
