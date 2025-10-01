@@ -54,7 +54,9 @@ In this talk I will describe some works developed at the Centre of Cryptographic
 
 <img src="/assets/images/panario.jpg" alt="Daniel Panario" class="speaker-img">
 
-**Daniel Panario** (Carleton University, Canada): _Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
+**Daniel Panario** (Carleton University, Canada):
+
+_Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields_
 
 Discrete logarithm computations and their use in cryptography are one of the many areas of research of Alfred Menezes. In this talk, we review a methodology that allows us to prove diverse results about the distribution of the irreducible factors of polynomials over finite fields. This technique was originally used by Odlyzko to prove that the index calculus method to compute discrete logarithms in finite fields has subexponential cost. We review Odlyzko's results and comment on other uses of this methodology in discrete logarithm computations.
 
