@@ -41,7 +41,7 @@ I will talk about the history of our collaboration, focusing on the 15 years of 
 
 <img src="/assets/images/lopez.jpg" alt="Julio López" class="speaker-img">
 
-_ECC: Experiences in ECC and Binary Fields_
+_Experiences in ECC and Binary Fields_
 
 In this talk I will describe some works developed at the Centre of Cryptographic Research (CACR) at the University of Waterloo (now  Cybersecurity and Privacy Institute (CPI)) supervised by professor Alfred Menezes when I visited him in 1998-1999. The projects focused on the development of software implementations of Elliptic Curves. In the second part of the talk, I will present a software implementation of arithmetic operations in GF(2⁸) on the Cortex-M85 processor, with applications to AES and other cryptographic algorithms.
 

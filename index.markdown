@@ -46,7 +46,7 @@ The workshop will feature talks on:
 | 2:05 - 2:10 |                                                         Foreword                                                                        |        Diego & Francisco      |
 | 2:10 - 2:50 |                [A Tribute to the Kovalevskaia Fund](/speakers#araujo-koblitz)                                                           | Gabriela Araujo & Ann Koblitz |
 | 2:50 - 3:25 |                [My Collaboration with Alfred Menezes](/speakers#koblitz)                                                                |          Neal Koblitz         |
-| 3:25 - 3:50 |                                              [ECC: Experiences in ECC and Binary Fields](/speakers#lopez)                               |          Julio López          |
+| 3:25 - 3:50 |                                              [Experiences in ECC and Binary Fields](/speakers#lopez)                                    |          Julio López          |
 | 3:50 - 4:05 |                                                       Coffee break                                                                      |             --                |
 | 4:05 - 4:30 |      [Discrete logarithm computations and the distribution of irreducible factors of polynomials over finite fields](/speakers#panario) |         Daniel Panario        |
 | 4:30 - 4:55 |                                          [Another look at quantum cryptanalysis](/speakers#jaques)                                      |           Sam Jaques          |
